@@ -1,0 +1,25 @@
+{
+  "name": "Zako AI",
+  "short_name": "Zako AI",
+  "description": "Asistent AI prietenos — text și imagini",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#05070A",
+  "theme_color": "#05070A",
+  "orientation": "portrait-primary",
+  "lang": "ro",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
